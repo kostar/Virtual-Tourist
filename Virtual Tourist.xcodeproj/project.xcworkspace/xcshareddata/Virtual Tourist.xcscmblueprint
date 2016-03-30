@@ -1,0 +1,44 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "93C18BA0434E1C7A8B8E9362B23BD065DBBF468C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F13BD51841AFC33D319D4CEC3309EE5A562AA6C1" : 0,
+    "93C18BA0434E1C7A8B8E9362B23BD065DBBF468C" : 0,
+    "5E32233CC4B3D004BDE8903D03F6C0AFCAF27AFC" : 0,
+    "88CFC4245DE40C2F98AF27727840DAF84F604867" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "68223293-D8AA-4672-8C79-F1DBD654F2E6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F13BD51841AFC33D319D4CEC3309EE5A562AA6C1" : "Virtual%20Tourist\/",
+    "93C18BA0434E1C7A8B8E9362B23BD065DBBF468C" : "Virtual%20Tourist\/Virtual%20Tourist\/",
+    "5E32233CC4B3D004BDE8903D03F6C0AFCAF27AFC" : "..\/ios-persistence-2",
+    "88CFC4245DE40C2F98AF27727840DAF84F604867" : "On%20The%20Map\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Virtual Tourist",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Virtual Tourist.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/udacity\/ios-persistence-2.0",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5E32233CC4B3D004BDE8903D03F6C0AFCAF27AFC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/pbellot77\/On-The-Map.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "88CFC4245DE40C2F98AF27727840DAF84F604867"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/pbellot77\/Virtual-Tourist.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "93C18BA0434E1C7A8B8E9362B23BD065DBBF468C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/pbellot77\/Virtual-Tourist.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F13BD51841AFC33D319D4CEC3309EE5A562AA6C1"
+    }
+  ]
+}
