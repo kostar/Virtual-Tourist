@@ -86,4 +86,4 @@ class ImageCache {
         return Singleton.shareInstance
     }
     
-}// End of Class // Random comment
+}// End of Class

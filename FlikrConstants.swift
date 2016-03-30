@@ -19,7 +19,8 @@ extension FlickrClient {
     struct Constants {
         
         static let FlickrAPIKey = "edab87ca080e787612d6bcd5e1cb5d44"
-        static let FlickrURL = "https://api.flickr.com/services/rest/?method=flickr.test.echo&name=value"
+        static let FlickrURL = "https://api.flickr.com/services/rest/"
+        
         static let SafeSearch = "1"
         static let Extras = "url_m"
         static let DataFormat = "json"

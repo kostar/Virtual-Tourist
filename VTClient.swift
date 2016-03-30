@@ -23,7 +23,7 @@ class VTClient: NSObject {
     func taskForGetMethod(urlString: String, headerFields: [String:String], queryParameters: [String: AnyObject]?, completionHandler:(data: NSData?, error: NSError?) -> Void) -> NSURLSessionDataTask{
         
         //build and configure Get request
-        let urlString = VTClient.escapedParameters(queryParameters)
+        let urlString = urlString + VTClient.escapedParameters(queryParameters)
         let url = NSURL(string: urlString)!
         
         let request = NSMutableURLRequest(URL: url)

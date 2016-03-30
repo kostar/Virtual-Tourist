@@ -19,7 +19,7 @@ extension Pin {
     @NSManaged var latitude: NSNumber?
     @NSManaged var isDownloading: Bool
     @NSManaged var createdAt: NSDate?
-    @NSManaged var photos: [Photo]
+    @NSManaged var photos: Set<Photo>
     @NSManaged var photosMetaData: PhotosMetaData?
 
 }
